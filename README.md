@@ -6,12 +6,6 @@ This guide provides an in-depth understanding of a **SWIPE** application built u
 
 Swipe is an application designed to demonstrate the usage of Kotlin and Jetpack Compose for building modern Android applications. It showcases various features and functionalities implemented using Jetpack Compose UI toolkit.
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
 ## Getting Started
 
 To get started with Swipe, follow these steps:
